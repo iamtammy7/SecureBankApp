@@ -18,11 +18,14 @@ Withdraw money with insufficient-funds check
 Full transaction history shown in a table
 Per-user data isolation — each customer's balance and transactions are stored in their own files
 Graceful logout
+
 How to Run#
 Prerequisites#
 Java 8 or higher
 Any terminal (PowerShell, CMD, or Bash)
+
 Steps#
+
 From the project root, compile all sources:
 Run the application:
 The welcome screen appears. Choose CREATE ACCOUNT to register, or SIGN IN if you already have an account.
