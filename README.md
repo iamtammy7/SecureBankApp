@@ -28,5 +28,5 @@ The welcome screen appears. Choose CREATE ACCOUNT to register, or SIGN IN if you
 Passwords are never stored in plain text.
 Each password is combined with a random 16-character salt and hashed with SHA-256.
 Stored format is salt:hash, so identical passwords produce different stored values.
-Author#
+
 [OLGA TAMARI NHENDE] — [H250595R]
