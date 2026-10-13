@@ -16,7 +16,7 @@ Real-time account balance display
 Deposit money with input validation
 Withdraw money with insufficient-funds check
 Full transaction history shown in a table
-Per-user data isolation — each customer's balance and transactions are stored in their own files
+Per user data isolation :each customer's balance and transactions are stored in their own files
 Graceful logout
 
 How to Run#
